@@ -1,4 +1,4 @@
-Input files required by the PRScise-2 software
+Input files required by the PRScise-2 software \
 (A) Base file (GWAS file with effect sizes of each SNP)
 (B) Target file (Plink binary files (bed,bim,fam))
 (C) Covariate file

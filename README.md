@@ -3,7 +3,7 @@ Input files required by the PRScise-2 software \
 (B) Target file (Plink binary files (bed,bim,fam)) \
 (C) Covariate file \
 (D) Phenotype file \
-PRSice-2 code in linux \
+PRSice-2 code in linux, Check file PRSice2.sh \
 PRSice-2 can be downloaded from https://www.prsice.info/. The important details can be found at https: //choishingwan.github.io/PRS-Tutorial/plink/. Two main files required are PRSice.R and PRSice_linux. Other required files to run the analysis are in the downloaded PRSice directory.
  Output files and graphs \
 Software generated multiple output files and graphs once analysis is completed \
